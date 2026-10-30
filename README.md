@@ -55,11 +55,11 @@ Estos datos permiten observar información técnica de la comunicación sin nece
 
 **Solicitud HTTP y encabezados**
 
-![Solicitud HTTP y Headers](evidencias/01-solicitud-http-headers)
+![Solicitud HTTP y Headers](evidencias/01-solicitud-http-headers.png)
 
 **Protocolo HTTP/1.1**
 
-![Protocolo HTTP 1.1](evidencias/02-protocolo-http11)
+![Protocolo HTTP 1.1](evidencias/02-protocolo-http11.png)
 
 ## 3. Riesgos encontrados en una red Wi-Fi pública
 
